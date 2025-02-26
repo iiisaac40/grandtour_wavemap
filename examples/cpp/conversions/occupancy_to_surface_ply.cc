@@ -6,7 +6,7 @@
 #include <wavemap/core/common.h>
 #include <wavemap/core/map/hashed_wavelet_octree.h>
 #include <wavemap/core/map/map_base.h>
-#include <wavemap/io/file_conversions.h>
+#include <wavemap/io/map/file_conversions.h>
 #include <wavemap/core/utils/query/query_accelerator.h>
 #include <wavemap/core/utils/neighbors/grid_neighborhood.h>
 
